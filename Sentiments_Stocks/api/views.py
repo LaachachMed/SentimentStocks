@@ -21,7 +21,7 @@ from .serializers import TwitterUserSerializer, TweetsSerializer, AppUserSeriali
 from .models import TwitterUser, Tweets, AppUser
 import pandas as pd
 from . import sentiment_analysis_class
-# 
+#
 consumer_key = ''
 consumer_secret = ''
 access_token = ''
