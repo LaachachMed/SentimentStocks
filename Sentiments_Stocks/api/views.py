@@ -21,12 +21,11 @@ from .serializers import TwitterUserSerializer, TweetsSerializer, AppUserSeriali
 from .models import TwitterUser, Tweets, AppUser
 import pandas as pd
 from . import sentiment_analysis_class
-# b83f9be0e7944d438d6395baaa9f9f66 / 21a60966d30c4161bab89939a1d5834f
-key = 'b83f9be0e7944d438d6395baaa9f9f66'
-consumer_key = 'dOMEJSoFKcxlDhg9N0luw7Sz9'
-consumer_secret = 'juc2FZeCXJDxqKhXX8MZiAIt3JS1c8jHzGGnrIjgFvnh1gHkHc'
-access_token = '1580106776-OO6VdD6EFySLnupcwAZyiRFcc1VzyER2zkjpPTS'
-access_token_secret = 'p3ls90U1QGUm2saeRBtaZgWrl7nXfWHVwDjkvbOuDlW45'
+# 
+consumer_key = ''
+consumer_secret = ''
+access_token = ''
+access_token_secret = ''
 
 
 # save the uploaded file
